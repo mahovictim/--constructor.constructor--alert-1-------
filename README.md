@@ -1,0 +1,4 @@
+--constructor.constructor--alert-1-------
+=========================================
+
+{{constructor.constructor('alert(1)')()}}
